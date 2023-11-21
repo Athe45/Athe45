@@ -38,7 +38,4 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ATHEX and I'm a ..., from ....</h2>
-
-###
-
+<img src="https://github.com/saadeghi/saadeghi"/>
