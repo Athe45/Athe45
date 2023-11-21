@@ -34,7 +34,7 @@
 
 ###
 
-<img align="right" height="150" src="https://ezgif.com/gif-to-webp/ezgif-2-00393def6b.gif"  />
+<img align="right" height="150" src="gif-to-webp/ezgif-2-00393def6b.gif"  />
 
 ###
 
@@ -42,8 +42,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Athe45/Athe45/output/snake.svg" alt="Snake animation" />
-
-###
